@@ -18,4 +18,7 @@ Multiple base maps: Greyscale, Satelite, Default
 Tectonic plate layer created.
 Tectonic plate and Earthquake layers are overlays that can be turned on and off independently.
 Legend created to provide context for the map data.
-Map Image
+
+
+![image](https://user-images.githubusercontent.com/69886274/156829801-6cdb7639-4a79-4392-80e7-40e5cdf41bad.png)
+
